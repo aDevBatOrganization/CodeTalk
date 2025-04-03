@@ -1,0 +1,17 @@
+{
+  "name": "codetalk",
+  "version": "1.0.0",
+  "description": "Projet CodeTalk youtube",
+  "main": "index.js",
+  "scripts": {
+    "setup": "bash scripts/setup.sh",
+    "start": "bash scripts/start-dev.sh",
+    "stop": "bash scripts/stop-dev.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.22.0"
+  }
+}
